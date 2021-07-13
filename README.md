@@ -1,2 +1,20 @@
 # My vscode setting
-<img src="https://i.imgur.com/04mqhuV.png">
+
+Settings of Vscode
+
+# Extensions
+
+* Atom MAterial Theme
+* Auto Rename Tag
+* Bracket Pair Colorizer
+* Java Extension Packet
+* Html Snippets
+* Dracula Offical
+* Live Server
+* Material Icon Theme
+* Prettier
+
+# Preview
+<img src="https://i.imgur.com/d9W1f4f.png">
+
+
