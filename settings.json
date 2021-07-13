@@ -1,0 +1,23 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "material-icon-theme",
+    // "workbench.colorCustomizations": {
+    //     "sideBar.background": "#282a37",
+    //     "editor.background": "#282a37",
+    //     "terminal.background": "#282a37",
+    //     "panel.background": "#282a37",
+    //     "activityBar.background": "#282a37",
+    //     "tab.activeBorderTop": "#ffb86c",
+    //     "panelTitle.activeBorder": "#ffb86c",
+    // },
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Atom Material Theme",
+    "editor.lineHeight": 26,
+    "editor.letterSpacing": 0.7,
+    "editor.cursorWidth": 2,
+    "editor.formatOnSave": true,
+    "tabnine.experimentalAutoImports": true,
+    
+}
+
