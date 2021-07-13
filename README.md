@@ -4,7 +4,7 @@ Settings of Vscode
 
 # Extensions
 
-* Atom MAterial Theme
+* Atom Material Theme
 * Auto Rename Tag
 * Bracket Pair Colorizer
 * Java Extension Packet
